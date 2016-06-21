@@ -1,6 +1,6 @@
-# vue-simple-boilerplate
+# vue-simple-2.0-boilerplate
 
-> The simplest possible Vue setup in a single HTML file
+> The simplest possible Vue setup in a single HTML file. Note that until the final release of 2.0, this template is not suitable for production.
 
 ### Before You Start...
 
